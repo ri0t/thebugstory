@@ -24,3 +24,9 @@ Also:
 ### Riot's corollary
 
     “Where there is a feature, there is always a bug.”
+
+# Join the guild
+
+If you intend to write on any branch of thebugstory, please fill out [Form #7023](https://github.com/ri0t/thebugstory/issues/new?template=writer-s-guild-application.md)
+
+Remember: this is AGPL3 licensed.
