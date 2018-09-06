@@ -1,6 +1,6 @@
 ---
 name: Writer's guild application
-about: 'This is form #7023 - Application to the story writer guild'
+about: 'Form #7023 - Application to the story writer guild'
 
 ---
 
